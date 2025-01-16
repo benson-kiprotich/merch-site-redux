@@ -1,6 +1,9 @@
 {
   "name": "merch-site",
   "version": "0.1.0",
+  "repository": {
+    "url": "git+https://github.com/benson-kiprotich/merch-site-redux.git"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -18,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "webpack --mode=development",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -43,5 +46,5 @@
   "devDependencies": {
     "gh-pages": "^6.2.0"
   },
-  "homepage": "https://benson-kiprotich.github.io/merch-site/"
+  "homepage": "https://benson-kiprotich.github.io/merch-site-redux/"
 }
