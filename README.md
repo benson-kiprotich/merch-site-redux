@@ -27,8 +27,8 @@ Click this [link](https://drive.google.com/file/d/1CDomq0dpmbedhdckwGmuDNhJnk8VW
 ## Setup/Installation Requirements
 
 - Navigate to your development directory to clone this project.
-- Run `git clone https://github.com/benson-kiprotich/merch-site.git` in terminal.
-- Run `cd merch-site` to navigate into new project directory.
+- Run `git clone https://github.com/benson-kiprotich/merch-site-redux.git` in terminal.
+- Run `cd merch-site-redux` to navigate into new project directory.
 - Open the cloned repo in a text editor of your choice.
 - Run `npm install` to download all dependencies.
 - Run `npm run start` to start web server.
@@ -49,9 +49,9 @@ _There are no known bugs at this time._
 
 ## Support and contact details
 
-If you find a bug or have questions, ideas or concerns, kindly open an issue [here](https://github.com/benson-kiprotich/merch-site/issues/new) and share the concerns.
+If you find a bug or have questions, ideas or concerns, kindly open an issue [here](https://github.com/benson-kiprotich/merch-site-redux/issues/new) and share the concerns.
 
 ### License
 
 _MIT_
-Copyright (c) 2024 **Benson Limo**
+Copyright (c) 2025 **Benson Limo**
